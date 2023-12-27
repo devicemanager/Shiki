@@ -1,4 +1,4 @@
 Shiki
 =====
 
-Shiki is now part of [WhateverGreen](https://github.com/acidanthera/WhateverGreen), please [use it](https://github.com/acidanthera/WhateverGreen/releases) instead.
+Shiki is now part of [WhateverGreen](https://github.com/devicemanager/WhateverGreen), please [use it](https://github.com/devicemanager/WhateverGreen/releases) instead.
